@@ -3,7 +3,7 @@ function add(x, y) {
 }
 
 function subtract(x,y) {
-  return x-a
+  return x-y
 }
 
 function multiply(x,y) {
@@ -15,5 +15,5 @@ function divide(x,y) {
 }
 
 function inc(n) {
-  return n++
+  return n+=1
 }
